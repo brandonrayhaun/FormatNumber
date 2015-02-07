@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "summary": "Functions for formatting numbers as strings.",
+    "repository": "https://github.com/brandonrayhaun/FormatNumber.git",
+    "license": "BSD3",
+    "source-directories": [
+        "."
+    ],
+    "native-modules": true,
+    "exposed-modules": ["FormatNumber"],
+    "dependencies": {
+        "elm-lang/core": "1.1.0 <= v < 2.0.0"
+    }
+}
